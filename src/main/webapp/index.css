@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+.row{
+	border: solid !important;
+
+}
+.btn{
+	margin-top:10px;
+}
+.form-check-input{
+	margin-bottom: 20px!important;
+}
